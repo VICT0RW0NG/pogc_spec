@@ -1,7 +1,7 @@
 _id: spc_a1b5203fd74341018d46dafbf7ce818b
 type: ApiSpec
 parentId: wrk_e0c1f7ee03cf4c7fae23da3bbafd0d78
-modified: 1619073926390
+modified: 1619074972990
 created: 1619073764186
 fileName: POGC External API
 contents: |-
@@ -25,13 +25,13 @@ contents: |-
       "description":"",
       "responses":{
          "200":{
-         "description":"output of the endpoint",
-         "schema":{
-         "type":"object",
-         "properties":{
+            "description":"output of the endpoint",
+            "schema":{
+                "type":"object",
+                "properties":{
          
-         }
-         }
+                }
+            }
          }
       },
       "consumes":[
