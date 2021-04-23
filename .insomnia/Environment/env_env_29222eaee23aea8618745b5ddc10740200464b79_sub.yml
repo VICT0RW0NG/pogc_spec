@@ -1,0 +1,14 @@
+_id: env_env_29222eaee23aea8618745b5ddc10740200464b79_sub
+type: Environment
+parentId: env_29222eaee23aea8618745b5ddc10740200464b79
+modified: 1619149719811
+created: 1619149719811
+name: OpenAPI env
+data:
+  scheme: http
+  base_path: /ords/space/pogc
+  host: 10.82.99.99:7004
+dataPropertyOrder: null
+color: null
+isPrivate: false
+metaSortKey: 1619149719811

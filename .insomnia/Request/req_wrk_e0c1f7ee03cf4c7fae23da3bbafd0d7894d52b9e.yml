@@ -1,0 +1,34 @@
+_id: req_wrk_e0c1f7ee03cf4c7fae23da3bbafd0d7894d52b9e
+type: Request
+parentId: wrk_e0c1f7ee03cf4c7fae23da3bbafd0d78
+modified: 1619149719787
+created: 1619149719787
+url: "{{ base_url }}/recognition_result/"
+name: /recognition_result/
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: "null"
+parameters: []
+headers:
+  - name: i_bu_id
+    disabled: false
+    value: string
+  - name: i_user_name
+    disabled: false
+    value: string
+  - name: i_password
+    disabled: false
+    value: string
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1619149719787
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

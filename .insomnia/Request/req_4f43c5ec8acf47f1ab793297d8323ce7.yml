@@ -1,0 +1,25 @@
+_id: req_4f43c5ec8acf47f1ab793297d8323ce7
+type: Request
+parentId: wrk_e0c1f7ee03cf4c7fae23da3bbafd0d78
+modified: 1619146093269
+created: 1619146093269
+url: ""
+name: http://10.82.99.99:7004/ords/space/pogc/recognition_result/
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1619146093269
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

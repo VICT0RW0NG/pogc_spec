@@ -1,8 +1,8 @@
 _id: wrk_e0c1f7ee03cf4c7fae23da3bbafd0d78
 type: Workspace
 parentId: null
-modified: 1619073764184
+modified: 1619149719826
 created: 1619073764184
-name: POGC External API
+name: ORDS generated API for POG Compliance External Gateway 1.0.0
 description: ""
 scope: spec
